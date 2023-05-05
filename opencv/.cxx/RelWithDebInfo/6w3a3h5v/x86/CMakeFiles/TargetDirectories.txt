@@ -1,0 +1,3 @@
+C:/Users/Uche/AndroidStudioProjects/CameraApp/opencv/.cxx/RelWithDebInfo/6w3a3h5v/x86/CMakeFiles/opencv_jni_shared.dir
+C:/Users/Uche/AndroidStudioProjects/CameraApp/opencv/.cxx/RelWithDebInfo/6w3a3h5v/x86/CMakeFiles/edit_cache.dir
+C:/Users/Uche/AndroidStudioProjects/CameraApp/opencv/.cxx/RelWithDebInfo/6w3a3h5v/x86/CMakeFiles/rebuild_cache.dir
